@@ -1,0 +1,22 @@
+{
+  "name": "react-native-lead-form-example",
+  "displayName": "LeadForm Example",
+  "expo": {
+    "name": "react-native-lead-form-example",
+    "slug": "react-native-lead-form-example",
+    "description": "Example app for react-native-lead-form",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
