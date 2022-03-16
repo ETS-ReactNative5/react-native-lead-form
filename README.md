@@ -1,6 +1,6 @@
 # react-native-lead-form
 
-Lead form from Boontar TV for your application
+First you need to create an account with Boontar TV
 
 ## Installation
 

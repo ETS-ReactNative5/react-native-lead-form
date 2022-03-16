@@ -1,7 +1,7 @@
 {
   "name": "react-native-lead-form",
   "version": "0.1.0",
-  "description": "Lead form from Boontar TV for your application",
+  "description": "First you need to create an account with Boontar TV",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
@@ -37,7 +37,7 @@
     "android"
   ],
   "repository": "https://github.com/boontar-ltd/react-native-lead-form",
-  "author": "BoontarTV <dezault1@mail.ru> (https://boontar.tv)",
+  "author": "Boontar <dezault1@mail.ru> (https://boontar.tv)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/boontar-ltd/react-native-lead-form/issues"
