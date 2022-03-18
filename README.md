@@ -73,8 +73,8 @@ import LeadForm from 'react-native-lead-form'
 | `Select` | ❌ |
 ## Example
 ```js
-import React, { Component } from 'react';
-import { SafeAreaView } from 'react-native';
+import React, {Component} from 'react';
+import {SafeAreaView} from 'react-native';
 
 import LeadForm from 'react-native-lead-form'
 
