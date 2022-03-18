@@ -73,31 +73,33 @@ import LeadForm from 'react-native-lead-form'
 | `Select` | ❌ |
 ## Example
 ```js
-import React, {Component} from 'react';
-import {SafeAreaView} from 'react-native';
+import React, { Component } from 'react';
+import { SafeAreaView } from 'react-native';
 
 import LeadForm from 'react-native-lead-form'
 
 class HelloWorld extends Component {
-  
-    onSuccess = () => {
+  onSuccess = () => {
 
-    }
+  }
 
-    onFailed = (errorCode) => {
-      console.log(errorCode)
-    }
+  onFailed = (errorCode) => {
+    console.log(errorCode)
+  }
 
-    render() {
-        return(<SafeAreaView>
-		  <LeadForm
-			getId={489} 
-			apiKey={'3eed5899edebff1197ae59dc06651ff929a10297'}
-			statusVisible={true}
-			onSuccess={()=>{}}
-			onFailed={(errorCode)=>{}}
-		  />
-   	 </SafeAreaView>)
-    }
+  render() {
+    return (
+      <SafeAreaView>
+        <LeadForm
+          getId= { 489}
+          apiKey = { '3eed5899edebff1197ae59dc06651ff929a10297'}
+          statusVisible = { true}
+          onSuccess = {()=> { }}
+          onFailed = {(errorCode)=>{ }}
+        />
+      </SafeAreaView>
+    );
+  }
 }
 ```
+
