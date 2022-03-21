@@ -2,7 +2,7 @@
   "name": "react-native-lead-form",
   "version": "1.0.0",
   "description": "Lead form for collecting requests, ratings, reviews, etc.",
-  "main": "babel.config.js",
+  "main": "index.js",
   "directories": {
     "example": "example"
   },
