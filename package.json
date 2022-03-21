@@ -1,6 +1,6 @@
 {
   "name": "react-native-lead-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lead form for collecting requests, ratings, reviews, etc.",
   "main": "index.js",
   "directories": {
