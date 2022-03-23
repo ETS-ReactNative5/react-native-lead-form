@@ -14,16 +14,7 @@
     "url": "git+https://github.com/boontar-ltd/react-native-lead-form.git"
   },
   "keywords": [
-    "boontar"
-  ],
-  "author": "Boontar",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/boontar-ltd/react-native-lead-form/issues"
-  },
-  "homepage": "https://github.com/boontar-ltd/react-native-lead-form#readme",
-  ,
-  "keywords": [
+    "boontar",
     "react-native",
     "react",
     "ios",
@@ -43,5 +34,11 @@
     "ratings",
     "reviews",
     "collecting"
-  ]
+  ],
+  "author": "Boontar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boontar-ltd/react-native-lead-form/issues"
+  },
+  "homepage": "https://github.com/boontar-ltd/react-native-lead-form#readme"
 }
